@@ -4,8 +4,13 @@
 .cuadro{
     background-color: #3a4750;
 }
-.text{
-    background-color: #f5f2eb;
+.letra{
+    color: #f5f2eb;
+    font-family: montserrat;
+}
+.texto{
+    color: #f5f2eb;
+    font-family: inter;
 }
 @font-face {
     font-family: inter;
