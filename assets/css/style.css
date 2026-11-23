@@ -1,0 +1,15 @@
+.fondo{
+    background-color: #1a2126;
+}
+.cuadro{
+    background-color: #3a4750;
+}
+.text{
+    background-color: #f5f2eb;
+}
+@font-face {
+    font-family: inter;
+    src: url(../font/Inter/Inter-VariableFont_opsz\,wght.ttf);
+    font-family: montserrat;
+    src: url(../font/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
